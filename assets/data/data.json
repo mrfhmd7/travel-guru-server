@@ -1,0 +1,248 @@
+{
+     "destinations": [
+          {
+               "id": 1,
+               "name": "SAJEK",
+               "location": "Bangladesh",
+               "latitude": 23.3819,
+               "longitude": 92.2938,
+               "description": "Sajek is a beautiful hill station located in the northeastern part of Bangladesh. Known for its serene landscapes, it offers stunning views of the hills and valleys.",
+               "image": "/assets/images/Sajek.png",
+               "activities": [
+                    "Hiking",
+                    "Photography",
+                    "Camping",
+                    "Cultural exploration"
+               ],
+               "best_time_to_visit": "November to February",
+               "popular_attractions": [
+                    "Sajek Valley",
+                    "Konglak Hill",
+                    "Helipad Viewpoint"
+               ],
+               "accommodations": [
+                    {
+                         "name": "Sajek Resort & Spa",
+                         "guests": 2,
+                         "bedrooms": 1,
+                         "beds": 1,
+                         "baths": 1,
+                         "price_per_night": 55,
+                         "rating": 4.7,
+                         "reviews": 30,
+                         "amenities": [
+                              "Wifi",
+                              "Air conditioning",
+                              "Breakfast included",
+                              "Cancellation flexibility"
+                         ],
+                         "image": "/assets/images/Sajek Resort & Spa.png"
+                    },
+                    {
+                         "name": "Konglak Hill Villa",
+                         "guests": 4,
+                         "bedrooms": 2,
+                         "beds": 2,
+                         "baths": 2,
+                         "price_per_night": 72,
+                         "rating": 4.8,
+                         "reviews": 25,
+                         "amenities": [
+                              "Mountain View",
+                              "Kitchen",
+                              "Fireplace",
+                              "Cancellation flexibility"
+                         ],
+                         "image": "/assets/images/Konglak Hill Villa.png"
+                    }
+               ]
+          },
+          {
+               "id": 2,
+               "name": "COX'S BAZAR",
+               "location": "Bangladesh",
+               "latitude": 21.4272,
+               "longitude": 92.0058,
+               "description": "Cox's Bazar is a city, fishing port, and popular tourist destination in southeastern Bangladesh. It is known for its long sandy beach stretching along the Bay of Bengal.",
+               "image": "/assets/images/Cox's Bazer.png",
+               "activities": [
+                    "Beach activities",
+                    "Swimming",
+                    "Boat tours",
+                    "Local cuisine"
+               ],
+               "best_time_to_visit": "October to March",
+               "popular_attractions": [
+                    "Inani Beach",
+                    "Himchari National Park",
+                    "Aggameda Khyang Monastery"
+               ],
+               "accommodations": [
+                    {
+                         "name": "Light bright airy stylish apt & safe peaceful stay",
+                         "guests": 4,
+                         "bedrooms": 2,
+                         "beds": 2,
+                         "baths": 2,
+                         "price_per_night": 34,
+                         "rating": 4.9,
+                         "reviews": 20,
+                         "amenities": [
+                              "Wifi",
+                              "Air conditioning",
+                              "Kitchen",
+                              "Cancellation flexibility"
+                         ],
+                         "image": "/assets/images/Bed 1.png"
+                    },
+                    {
+                         "name": "Apartment in Lost Panorama",
+                         "guests": 4,
+                         "bedrooms": 2,
+                         "beds": 2,
+                         "baths": 2,
+                         "price_per_night": 52,
+                         "rating": 4.8,
+                         "reviews": 10,
+                         "amenities": [
+                              "Wifi",
+                              "Air conditioning",
+                              "Kitchen",
+                              "Cancellation flexibility"
+                         ],
+                         "image": "/assets/images/Bed 2.png"
+                    },
+                    {
+                         "name": "AR Lounge & Pool (r&r + b&b)",
+                         "guests": 4,
+                         "bedrooms": 2,
+                         "beds": 2,
+                         "baths": 2,
+                         "price_per_night": 44,
+                         "rating": 4.9,
+                         "reviews": 25,
+                         "amenities": [
+                              "Wifi",
+                              "Air conditioning",
+                              "Kitchen",
+                              "Cancellation flexibility"
+                         ],
+                         "image": "/assets/images/Beach and Restaurant.png"
+                    }
+               ]
+          },
+          {
+               "id": 3,
+               "name": "SREEMANGAL",
+               "location": "Bangladesh",
+               "latitude": 24.3065,
+               "longitude": 91.7296,
+               "description": "Sreemangal is known for its tea gardens and lush green scenery. It is a perfect getaway for nature lovers and those looking to experience Bangladesh's tea culture.",
+               "image": "/assets/images/Sreemongol.png",
+               "activities": [
+                    "Tea garden tours",
+                    "Wildlife watching",
+                    "Cultural experiences"
+               ],
+               "best_time_to_visit": "September to February",
+               "popular_attractions": [
+                    "Lawachara National Park",
+                    "Madhabpur Lake",
+                    "Tea Gardens"
+               ],
+               "accommodations": [
+                    {
+                         "name": "Tea Garden Resort",
+                         "guests": 2,
+                         "bedrooms": 1,
+                         "beds": 1,
+                         "baths": 1,
+                         "price_per_night": 40,
+                         "rating": 4.6,
+                         "reviews": 18,
+                         "amenities": [
+                              "Breakfast included",
+                              "Mountain View",
+                              "Wifi",
+                              "Cancellation flexibility"
+                         ],
+                         "image": "/assets/images/Tea Garden Resort.png"
+                    },
+                    {
+                         "name": "Sreemangal Eco Lodge",
+                         "guests": 4,
+                         "bedrooms": 2,
+                         "beds": 2,
+                         "baths": 2,
+                         "price_per_night": 65,
+                         "rating": 4.9,
+                         "reviews": 22,
+                         "amenities": [
+                              "Eco-friendly",
+                              "Kitchen",
+                              "Fireplace",
+                              "Cancellation flexibility"
+                         ],
+                         "image": "/assets/images/Sreemangal Eco Lodge.png"
+                    }
+               ]
+          },
+          {
+               "id": 4,
+               "name": "SUNDARBANS",
+               "location": "Bangladesh",
+               "latitude": 21.9497,
+               "longitude": 89.1833,
+               "description": "The Sundarbans is a vast forest in the coastal region of the Bay of Bengal, and it is the largest tidal halophytic mangrove forest in the world.",
+               "image": "/assets/images/Sundorbon.png",
+               "activities": [
+                    "Wildlife tours",
+                    "Boat rides",
+                    "Birdwatching",
+                    "Photography"
+               ],
+               "best_time_to_visit": "November to February",
+               "popular_attractions": [
+                    "Mangrove Forest",
+                    "Royal Bengal Tiger sightings",
+                    "Wildlife Sanctuaries"
+               ],
+               "accommodations": [
+                    {
+                         "name": "Sundarbans Eco Resort",
+                         "guests": 3,
+                         "bedrooms": 1,
+                         "beds": 2,
+                         "baths": 1,
+                         "price_per_night": 70,
+                         "rating": 4.7,
+                         "reviews": 28,
+                         "amenities": [
+                              "Boat tours included",
+                              "Wildlife View",
+                              "Wifi",
+                              "Cancellation flexibility"
+                         ],
+                         "image": "/assets/images/Sundarbans Eco Resort.png"
+                    },
+                    {
+                         "name": "Mangrove Retreat",
+                         "guests": 5,
+                         "bedrooms": 3,
+                         "beds": 3,
+                         "baths": 2,
+                         "price_per_night": 85,
+                         "rating": 4.9,
+                         "reviews": 35,
+                         "amenities": [
+                              "Guided Wildlife Tours",
+                              "Kitchen",
+                              "Fireplace",
+                              "Cancellation flexibility"
+                         ],
+                         "image": "/assets/images/Mangrove Retreat.png"
+                    }
+               ]
+          }
+     ]
+}
